@@ -17,6 +17,7 @@ import { Input } from "./ui/input";
 import { Select, SelectContent, SelectTrigger, SelectValue } from "./ui/select";
 import { Textarea } from "./ui/textarea";
 import 'react-phone-number-input/style.css'
+import "react-datepicker/dist/react-datepicker.css"
 
 export enum FormFieldType {
   INPUT = "input",
